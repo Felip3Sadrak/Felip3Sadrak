@@ -1,16 +1,26 @@
-### Hi there 👋
+# Felipe Sadrak dos Santos 👋
 
-<!--
-**Felip3Sadrak/Felip3Sadrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Localização 📍
+Itaquaquecetuba - SP, Brasil
 
-Here are some ideas to get you started:
+## Formação Acadêmica 👨🏽‍💻
+- Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) | Fatec Ferraz de Vasconcelos (Cursando)
+- Técnico em Administração de Banco de Dados | Etec Ferraz de Vasconcelos (Formado)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades Técnicas 🎓
+- HTML
+- CSS
+- Python
+- C#
+- Java
+- PHP
+- MySQL
+- MongoDB
+
+Este é meu espaço para compartilhar meu progresso e projetos. Fique à vontade para explorar! 😊
+
+
+
+
+
+
