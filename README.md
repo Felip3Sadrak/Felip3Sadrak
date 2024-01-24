@@ -17,11 +17,5 @@ Itaquaquecetuba - SP, Brasil
 - :elephant: PHP
 - :floppy_disk: MySQL
 - :deciduous_tree: MongoDB
-   
+
 Este é meu espaço para compartilhar meu progresso e projetos. Fique à vontade para explorar! 😊
-
-
-
-
-
-
