@@ -13,7 +13,7 @@ Itaquaquecetuba - SP, Brasil
 - :snake: Python
 - :gear: C#
 - :coffee: Java
-- :android:: Kotlin
+- :android: Kotlin
 - :elephant: PHP
 - :floppy_disk: MySQL
 - :deciduous_tree: MongoDB
