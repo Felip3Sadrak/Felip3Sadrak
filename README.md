@@ -8,10 +8,7 @@ Itaquaquecetuba - SP, Brasil
 - Técnico em Administração de Banco de Dados | Etec Ferraz de Vasconcelos (Formado)
 
 ## Habilidades Técnicas 🎓
-- :computer: HTML
-- :art: CSS
 - :snake: Python
-- :gear: C#
 - :coffee: Java
 - 🤖 Kotlin 
 - :elephant: PHP
