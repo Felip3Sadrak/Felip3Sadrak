@@ -4,8 +4,8 @@
 Itaquaquecetuba - SP, Brasil
 
 ## Formação Acadêmica 👨🏽‍💻
-- Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) | Fatec Ferraz de Vasconcelos (Cursando)
-- Técnico em Administração de Banco de Dados | Etec Ferraz de Vasconcelos (Formado)
+- Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) | Fatec Ferraz de Vasconcelos (2024)
+- Técnico em Administração de Banco de Dados | Etec Ferraz de Vasconcelos (2021)
 
 ## Habilidades Técnicas 🎓
 - :snake: Python
