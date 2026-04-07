@@ -35,4 +35,4 @@ Atualmente, opero na intersecção entre o desenvolvimento tradicional e o **Vib
 ---
 
 ### Conecte-se comigo:
-[LinkedIn](https://linkedin.com/in/felipe-sadrak-dos-santos) | [GitHub](https://github.com/Felip3Sadrak) 
+[LinkedIn](https://www.linkedin.com/in/felipe-sadrak-dos-santos-425391228/) | [GitHub](https://github.com/Felip3Sadrak) 
