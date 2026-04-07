@@ -20,7 +20,7 @@ Atualmente, opero na intersecção entre o desenvolvimento tradicional e o **Vib
 * **Supabase:** PostgreSQL avançado e Edge Functions.
 
 ### 💻 Core Development
-* **Linguagens:** Python, Kotlin, PHP, Java e Lua.
+* **Linguagens:** Python, Kotlin, PHP, Java.
 * **Databases:** Administração de Banco de Dados (MySQL & MongoDB).
 * **Mobile:** Foco em desenvolvimento híbrido e IA integrada.
 
