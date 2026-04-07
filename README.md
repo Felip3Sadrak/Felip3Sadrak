@@ -1,18 +1,38 @@
 # Felipe Sadrak dos Santos 👋
 
+Analista de Suporte & Software Developer focado em arquiteturas escaláveis, soberania tecnológica e automação inteligente.
+
 ## Localização 📍
-Itaquaquecetuba - SP, Brasil
+Itaquaquecetuba - SP | Atuando em Arujá - SP
+
+## Tech Stack & Vibe Coding 🛠️
+
+Atualmente, opero na intersecção entre o desenvolvimento tradicional e o **Vibe Coding**, utilizando IA para prototipagem ultra-rápida e sistemas de alta fidelidade.
+
+### 🤖 AI & Low-Code Deployment (Vibe Coding)
+* **Modelos:** Gemini Code Assist, Qwen Code, DeepSeek (SoU).
+* **Infrastructure as Code:** Google Anti-Gravity, Firebase Services.
+* **Automations:** Python-driven workflows e arquiteturas serverless com Lua.
+
+### ☁️ Cloud & Backend-as-a-Service (BaaS)
+* **Google Cloud Platform:** Administração de instâncias, segurança e infraestrutura crítica.
+* **Firebase:** Firestore, Auth, Hosting e Cloud Functions para soluções Real-time.
+* **Supabase:** PostgreSQL avançado e Edge Functions.
+
+### 💻 Core Development
+* **Linguagens:** Python, Kotlin, PHP, Java e Lua.
+* **Databases:** Administração de Banco de Dados (MySQL & MongoDB).
+* **Mobile:** Foco em desenvolvimento híbrido e IA integrada.
 
 ## Formação Acadêmica 👨🏽‍💻
-- Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) | Fatec Ferraz de Vasconcelos (2024)
-- Técnico em Administração de Banco de Dados | Etec Ferraz de Vasconcelos (2021)
+* **Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)** | Fatec Ferraz de Vasconcelos (2024)
+* **Técnico em Administração de Banco de Dados** | Etec Ferraz de Vasconcelos (2021)
 
-## Habilidades Técnicas 🎓
-- :snake: Python
-- :coffee: Java
-- 🤖 Kotlin 
-- :elephant: PHP
-- :floppy_disk: MySQL
-- :deciduous_tree: MongoDB
+---
 
-Este é meu espaço para compartilhar meu progresso e projetos. Fique à vontade para explorar! 😊
+> "Construindo soluções digitais que unem performance técnica e inovação de ponta." 
+
+---
+
+### Conecte-se comigo:
+[LinkedIn](https://linkedin.com/in/felipe-sadrak-dos-santos) | [GitHub](https://github.com/Felip3Sadrak) 
