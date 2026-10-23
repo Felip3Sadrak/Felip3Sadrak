@@ -67,11 +67,11 @@ Gerenciador de projetos acadêmicos com quadro Kanban, colaboração em equipe e
 
 **✂️ [Docks Barber](https://github.com/Felip3Sadrak/docks-barber)**
 Sistema de gestão e agendamento para barbearias, com controle de serviços, profissionais e histórico de clientes. Interface moderna e fluxo de agendamento otimizado.
-`Stack: [Preencher com as tecnologias reais]` | [Ver Repositório](https://github.com/Felip3Sadrak/docks-barber)
+`Stack: Node.js, React 19, TypeScript, Tailwind CSS, Firebase (Firestore & Auth), Vite` | [Ver Repositório](https://github.com/Felip3Sadrak/docks-barber)
 
 **📧 [PST Manager](https://github.com/Felip3Sadrak/pst-manager)**
-Ferramenta para gerenciamento e manipulação de arquivos PST (Outlook), com foco em extração, organização e automação de e-mails para migração ou arquivamento.
-`Stack: [Preencher com as tecnologias reais]` | [Ver Repositório](https://github.com/Felip3Sadrak/pst-manager)
+Ferramenta desktop avançada para gerenciamento, backup, divisão e criptografia de arquivos PST (Outlook). Desenvolvida em Python com integração nativa ao Windows via COM API, suporte a parsing puro (sem Outlook) e criptografia em repouso. Distribuição facilitada via executável (`pst-manager.exe`) gerado em pipeline de CI.
+`Stack: Python, pywin32 (Outlook COM), pypstreader, Cryptography, CI/CD` | [Ver Repositório](https://github.com/Felip3Sadrak/pst-manager)
 
 ---
 
